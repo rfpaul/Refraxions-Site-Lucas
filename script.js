@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
     centerMode: true,
     variableWidth: true,
     autoplay: true,
-    autoplaySpeed: 0,
+    autoplaySpeed: 1,
     speed: 10000,
     arrows: false,
     pauseOnHover: false,
